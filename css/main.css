@@ -13,8 +13,8 @@ body {
   background-color: rgb(230, 246, 171);
 }
 
-.none {
-  display: none !important;
+ a {
+  text-decoration: underline !important;
 }
 
 .container {
