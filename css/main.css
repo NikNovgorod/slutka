@@ -164,6 +164,7 @@ body {
 }
 
 .project-title {
+  text-align: center;
   margin-bottom: 3rem;
   font-weight: 700;
   font-size: 5rem;
@@ -174,12 +175,6 @@ body {
   margin-bottom: 2rem;
   font-size: 3.6rem;
   font-weight: 600;
-  color: white;
-}
-
-.yandex {
-  font-size: 5rem;
-  font-weight: 700;
   color: white;
 }
 
