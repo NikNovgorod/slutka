@@ -170,6 +170,12 @@ body {
   color: white;
 }
 
+.yandex {
+  font-size: 5rem;
+  font-weight: 700;
+  color: white;
+}
+
 .product {
   color: rgba(99, 89, 232, 0.455);
 }
