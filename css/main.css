@@ -134,6 +134,13 @@ body {
   margin-bottom: 6rem;
 }
 
+.project-map_yandex {
+  text-align: center;
+  width: 60rem;
+  height: 34rem;
+  margin-bottom: 2rem;
+}
+
 .project-img {
   border-radius: 3rem;
   margin-bottom: 3rem;
