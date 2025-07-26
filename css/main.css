@@ -125,7 +125,6 @@ body {
   text-align: center;
   width: 96rem;
   height: 44rem;
-  border: 5rem solid blue;
 }
 
 .project-map {
@@ -140,6 +139,7 @@ body {
   width: 96rem;
   height: 44rem;
   margin-bottom: 3rem;
+  border: 1rem solid yellow;
 }
 
 .project-img {
